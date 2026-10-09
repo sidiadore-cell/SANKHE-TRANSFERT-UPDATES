@@ -1,0 +1,13 @@
+{
+  "product": "SANKHE-TRANSFERT",
+  "channel": "stable",
+  "version": "0.0.0",
+  "minimumSupportedVersion": "0.0.0",
+  "updateAvailable": false,
+  "mandatory": false,
+  "publishedAtUtc": null,
+  "packageUrl": "",
+  "sha256": "",
+  "signatureUrl": "",
+  "releaseNotes": "Aucune version Windows validée n'est publiée pour le moment."
+}
