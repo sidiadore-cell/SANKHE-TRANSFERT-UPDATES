@@ -1,13 +1,13 @@
 {
   "product": "SANKHE-TRANSFERT",
   "channel": "stable",
-  "version": "0.0.0",
+  "version": "320",
   "minimumSupportedVersion": "0.0.0",
   "updateAvailable": false,
   "mandatory": false,
-  "publishedAtUtc": null,
-  "packageUrl": "",
-  "sha256": "",
+  "publishedAtUtc": "2026-10-11T13:15:11Z",
+  "packageUrl": "https://github.com/sidiadore-cell/SANKHE-TRANSFERT-UPDATES/releases/download/v320/SANKHE_TRANSFERT_V320.rar",
+  "sha256": "5d1c9ebb2b688c80067c23ef622e12e845a4f990b9db54352017e26e0db71f62",
   "signatureUrl": "",
-  "releaseNotes": "Aucune version Windows validée n'est publiée pour le moment."
+  "releaseNotes": "SANKHE TRANSFERT V320 : paquet publie. Mise a jour automatique en attente de validation."
 }
