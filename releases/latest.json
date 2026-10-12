@@ -1,13 +1,13 @@
 {
   "product": "SANKHE-TRANSFERT",
   "channel": "stable",
-  "version": "1.003",
+  "version": "1.004",
   "minimumSupportedVersion": "0.0.0",
   "updateAvailable": false,
   "mandatory": false,
   "publishedAtUtc": "2026-10-11T13:15:11Z",
-  "packageUrl": "https://github.com/sidiadore-cell/SANKHE-TRANSFERT-UPDATES/releases/download/V1.003/SANKHE_TRANSFERT_V1.003.rar",
-  "sha256": "28c6801db01b8282cb7f3504b6a879495736d1d0b312d42f90a16300987584d0",
+  "packageUrl": "https://github.com/sidiadore-cell/SANKHE-TRANSFERT-UPDATES/releases/download/V1.004/SANKHE_TRANSFERT_V1.004.rar",
+  "sha256": "2ba5fbac917c4cba0ff41d3cdda584c1326e4ccf027727b3e2b88774bb5421e1",
   "signatureUrl": "",
-  "releaseNotes": "SANKHE TRANSFERT V1.003 : fichier publie. Installation automatique et retour arriere a valider avant activation."
+  "releaseNotes": "SANKHE TRANSFERT V1.004 : fichier publie. Installation automatique et retour arriere a valider avant activation."
 }
